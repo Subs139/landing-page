@@ -1,0 +1,4 @@
+Can see code changes in source tree 
+git add . (this will add code changes to be safe)
+git commit -m "commit title" (this is going to name and save your current code changes)
+git push (this pushes the files to be saved on github)
